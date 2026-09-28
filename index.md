@@ -1,64 +1,53 @@
 ---
 layout: default
-title: Game Design Portfolio
+title: Pritom Mandol | Game Design & AI
 ---
 
-# Game Design Portfolio
+# Pritom Mandol
 
-I'm a game designer focused on creating meaningful player experiences through thoughtful systems design, engaging mechanics, and compelling narratives.
+Game designer and AI programmer specializing in systemic gameplay, emergent AI behavior, and real-time simulation design. Currently completing my BSc (Hons) in Game Design at **Nottingham Trent University**.
 
----
-
-## Selected Work
-
-### [Project Title]
-**[Semester/Year]** · Unity, Figma
-
-A concise description of your project's core design challenge and how you solved it. Focus on the player experience and design thinking, not just technical details.
-
-[Explore →](#)
+I focus on creating intelligent, self-directed systems where player agency emerges from robust underlying mechanics and AI decision-making rather than scripted moments.
 
 ---
 
-### [Project Title]
-**[Semester/Year]** · Unreal Engine, Blender
+## Capstone Project: EvoRealm
 
-Describe what makes this project stand out. What was the creative goal? What did you learn about game design through making it?
+**Final Year Project** · Unreal Engine 5.7, C++, Data-Driven Design
 
-[Explore →](#)
+EvoRealm is an autonomous, real-time creature ecosystem simulation showcasing advanced AI decision-making and systemic gameplay logic. Rather than relying on scripted encounters, creatures possess dynamic internal needs—Hunger, Thirst, Fatigue, Territoriality—and make independent decisions through sophisticated AI systems.
 
----
+**Key Systems:**
+- **Environment Query System (EQS)** for spatial decision-making
+- **State Trees** for modular behavior execution
+- **Data-Driven Design** for elemental moves and passive abilities
+- **Emergent Interactions** between creatures based on environmental context and internal states
 
-### [Project Title]
-**[Semester/Year]** · [Your Tools]
+The project demonstrates how well-architected AI systems and emergent gameplay can create compelling player experiences without heavy scripting.
 
-A summary of the project scope, your role, and the impact or outcome. Keep it focused on design decisions and player-facing features.
-
-[Explore →](#)
+[Project Details →](#)
 
 ---
 
 ## About
 
-I study game design at **[University Name]**, where I focus on **[your design specialization: systems design, narrative, level design, etc.]**.
-
-My work centers on understanding how mechanics, aesthetics, and systems communicate intent to players. I'm interested in exploring **[specific design interests]** and collaborating with teams that value thoughtful, player-centered design.
+I'm passionate about systems design and AI programming—specifically how emergent behavior, intelligent decision-making, and data-driven mechanics create compelling gameplay experiences. My work explores the intersection of AI, level design, and player-centered systems.
 
 ### Core Skills
-- **Design:** Systems design, prototyping, level design, playtesting & iteration
-- **Engines:** Unity, Unreal Engine, Godot
-- **Tools:** Figma, Blender, Adobe Creative Suite
-- **Documentation:** Design documents, pitch decks, design rationale
+- **AI & Gameplay:** State machines, behavior trees, environment queries, systemic design
+- **Programming:** C++, Unreal Engine, data-driven architecture
+- **Game Design:** Emergent systems, playtesting & iteration, design documentation
+- **Tools:** Unreal Engine 5.7, Visual Studio, Perforce, Figma
 
 ---
 
 ## Let's Connect
 
-I'm open to collaboration, feedback, and conversations about game design.
+I'm open to collaboration, feedback, and conversations about AI-driven gameplay and systems design.
 
-- **Email** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn** [Profile](https://linkedin.com)
-- **GitHub** [pringles344](https://github.com/pringles344)
+- **Email:** [pritom.mandol@example.com](mailto:pritom.mandol@example.com)
+- **LinkedIn:** [Your Profile](https://linkedin.com)
+- **GitHub:** [pringles344](https://github.com/pringles344)
 
 ---
 
