@@ -3,62 +3,63 @@ layout: default
 title: Game Design Portfolio
 ---
 
-# Welcome to My Game Design Portfolio
+# Game Design Portfolio
 
-Hi! I'm **[Your Name]**, a game designer currently studying at **[Your University]**.
-
-This portfolio showcases my university game design work, with a focus on **[your design interests]** such as systems design, level design, narrative design, and player experience.
+I'm a game designer focused on creating meaningful player experiences through thoughtful systems design, engaging mechanics, and compelling narratives.
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### [Project 1 Title]
-**Semester / Year** | **Tools**: Unity, Figma, Photoshop
+### [Project Title]
+**[Semester/Year]** · Unity, Figma
 
-A short summary of the game concept, the design challenge, and the thinking behind the project.
+A concise description of your project's core design challenge and how you solved it. Focus on the player experience and design thinking, not just technical details.
 
-[View Project →](#)
-
----
-
-### [Project 2 Title]
-**Semester / Year** | **Tools**: Unreal Engine, Blender, Maya
-
-A concise description of the gameplay, visual direction, and design decisions that shaped the experience.
-
-[View Project →](#)
+[Explore →](#)
 
 ---
 
-### [Project 3 Title]
-**Semester / Year** | **Tools**: Twine, Unity, Adobe Creative Suite
+### [Project Title]
+**[Semester/Year]** · Unreal Engine, Blender
 
-A brief overview of the project, the player experience, and the skills developed during its creation.
+Describe what makes this project stand out. What was the creative goal? What did you learn about game design through making it?
 
-[View Project →](#)
-
----
-
-## About Me
-
-I’m passionate about designing memorable player experiences that balance mechanics, narrative, and usability. My work explores how systems and interaction can shape emotion, challenge, and engagement.
-
-**Skills & Tools**
-- Game Engines: Unity, Unreal Engine, Godot
-- Design: Systems design, level design, prototyping, playtesting
-- Tools: Figma, Photoshop, Illustrator, Blender
-- Documentation: Game design documents, pitch decks, design rationale
+[Explore →](#)
 
 ---
 
-## Get In Touch
+### [Project Title]
+**[Semester/Year]** · [Your Tools]
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com)
-- **GitHub**: [Your GitHub](https://github.com/pringles344)
-- **Portfolio**: [This page](https://pringles344.github.io)
+A summary of the project scope, your role, and the impact or outcome. Keep it focused on design decisions and player-facing features.
+
+[Explore →](#)
 
 ---
 
-*Last updated: September 2026*
+## About
+
+I study game design at **[University Name]**, where I focus on **[your design specialization: systems design, narrative, level design, etc.]**.
+
+My work centers on understanding how mechanics, aesthetics, and systems communicate intent to players. I'm interested in exploring **[specific design interests]** and collaborating with teams that value thoughtful, player-centered design.
+
+### Core Skills
+- **Design:** Systems design, prototyping, level design, playtesting & iteration
+- **Engines:** Unity, Unreal Engine, Godot
+- **Tools:** Figma, Blender, Adobe Creative Suite
+- **Documentation:** Design documents, pitch decks, design rationale
+
+---
+
+## Let's Connect
+
+I'm open to collaboration, feedback, and conversations about game design.
+
+- **Email** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn** [Profile](https://linkedin.com)
+- **GitHub** [pringles344](https://github.com/pringles344)
+
+---
+
+*Updated September 2026*
