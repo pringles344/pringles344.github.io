@@ -1,21 +1,23 @@
 title: Game Design Portfolio
-description: University Game Design Work & Projects
+description: University game design work and portfolio projects
 url: "https://pringles344.github.io"
 
-# Theme - choose one that fits your style
-theme: jekyll-theme-minimal
-# Other great portfolio themes:
+# Theme for the portfolio landing page
+# Try others if you want a different look:
 # - jekyll-theme-slate
 # - jekyll-theme-cayman
 # - jekyll-theme-time-machine
+# - jekyll-theme-minimal
 
-# Collections for organizing projects
+theme: jekyll-theme-minimal
+
+# Optional collections for future project pages
 collections:
   projects:
     output: true
     permalink: /projects/:name/
 
-# Front matter defaults
+# Default front matter for project pages
 defaults:
   - scope:
       path: ""
@@ -23,12 +25,12 @@ defaults:
     values:
       layout: "project"
 
-# Social links
+# Author info
 author:
   name: Your Name
   email: your.email@example.com
 
-# Enable plugins
+# jekyll plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
